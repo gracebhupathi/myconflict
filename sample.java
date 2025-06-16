@@ -1,3 +1,3 @@
 hello
-first line of java code
-second line of java code  
+first line of golang code
+second line of golang code  
